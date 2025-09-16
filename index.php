@@ -70,7 +70,9 @@ if (isset($_POST['sort'])) {
             </form>
         </div>
     </div>
-
+	<div>
+	<p>Новый блок</p>
+	</div>
 </body>
 </html>
 
